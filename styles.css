@@ -19,6 +19,11 @@ text-align:center;
   background: #FE5151;
 }
 
+.prueba {
+	background-color: black;
+	color: white;
+}
+
 #titulo{
 color:black;
 font-weight:bold;
@@ -54,4 +59,12 @@ hr { display: block; height: 1px;
     border: 0; border-top: 5px solid #FFFFFF;
     margin: 1em 0; padding: 0; }
 
+.test {
+	background-color: white;
+	color: black;
+	font-family: arial;
+	font-size: 2rem;
+}
+
 </style>
+
