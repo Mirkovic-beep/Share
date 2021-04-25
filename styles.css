@@ -52,7 +52,7 @@ font-family:Impact;
 }
 
 body{
-background-color:black;
+background-color: grey;
 }
 
 hr { display: block; height: 1px;
@@ -67,3 +67,4 @@ hr { display: block; height: 1px;
 }
 
 </style>
+
